@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a separate but parallel section of a git repository. Initially when created it will be identical to the branch it was created from, but you are able to work on individual files and commit them without changing the informtaion in the original branch or master branch.
